@@ -1,3 +1,5 @@
+# inspiration https://blogs.technet.microsoft.com/heyscriptingguy/2011/11/11/use-powershell-to-easily-convert-decimal-to-binary-and-back/
+
 param(
   [string]$mask,
   [switch]$decimal,
